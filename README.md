@@ -7,6 +7,9 @@ Ad Soyad:Kaan Kılıçarslan
 
 Öğrenci No.:2507010010
 
+Bölüm:Endüstri Mühendisliği
+
+
 --------------------------------------------------------
 #Kodun içinde her satırın neyi çalıştırdığı yazar.
 
