@@ -19,6 +19,8 @@ Ad Soyad:Kaan Kılıçarslan
 
 Öncelikle bilgisayarınıza Python yükleyin. bkz. https://www.python.org/downloads/
 
+"MatProje.py" dosyasını yükleyin.
+
 
 Dosyayı yükledikten sonra klasöre girin.
 
