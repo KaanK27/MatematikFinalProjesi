@@ -11,6 +11,11 @@ Bölüm:Endüstri Mühendisliği
 
 
 --------------------------------------------------------
+Yazdığım program, öncelikle kullanıcıdan ikinci dereceden denklemin katsayıları olan a, b ve c değerlerini alır. Ardından bu katsayıları kullanarak diskriminantı ($\Delta = b^2 - 4ac$) hesaplar. Hesaplanan $\Delta$ değerinin sıfırdan küçük, eşit veya büyük olma durumunu if-else yapısı ile kontrol ederek; kök yoksa durumu belirtir, kök varsa ilgili formülleri uygulayarak sonuçları ekrana yazdırır.
+
+
+
+
 #Kodun içinde her satırın neyi çalıştırdığı yazar.
 
 
