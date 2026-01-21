@@ -36,3 +36,6 @@ Dosya yoluna "cmd" yazın.
 Daha sonra a,b ve c değerlerini girin.
 
 --------------------------------------------------------
+<img width="573" height="198" alt="Ekran görüntüsü 2026-01-21 165032" src="https://github.com/user-attachments/assets/f265eccb-8d69-4a75-8b89-fb78a94964ab" />
+<img width="731" height="184" alt="Ekran görüntüsü 2026-01-21 164921" src="https://github.com/user-attachments/assets/1ce768ba-e6cb-4e73-9d7a-1c27b0826014" />
+<img width="710" height="172" alt="Ekran görüntüsü 2026-01-21 164831" src="https://github.com/user-attachments/assets/75319b20-82ea-43b8-b9e6-53b2c5ef057d" />
